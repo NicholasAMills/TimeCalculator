@@ -1,0 +1,5 @@
+﻿  Time Calculator (Hours_Minutes).cpp
+c:\users\nicho\source\repos\time calculator (hours_minutes)\time calculator (hours_minutes)\time calculator (hours_minutes).cpp(40): warning C4018: '<': signed/unsigned mismatch
+c:\users\nicho\source\repos\time calculator (hours_minutes)\time calculator (hours_minutes)\time calculator (hours_minutes).cpp(45): warning C4018: '<': signed/unsigned mismatch
+c:\users\nicho\source\repos\time calculator (hours_minutes)\time calculator (hours_minutes)\time calculator (hours_minutes).cpp(50): warning C4018: '<': signed/unsigned mismatch
+  Time Calculator (Hours_Minutes).vcxproj -> C:\Users\Nicho\source\repos\Time Calculator (Hours_Minutes)\Debug\Time Calculator (Hours_Minutes).exe
